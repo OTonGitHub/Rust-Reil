@@ -30,3 +30,8 @@ https://learning.oreilly.com/videos/rust-in-motion
 #### Learning Order
 
 - O'Reilly - Rust Video Course.
+
+#### Environment
+
+- Github codespaces, in vscode, run `ctrl + shift + p` then `add dev..` choose dev container configuration files.
+  - Just choose the rust main one, no optional ones.
