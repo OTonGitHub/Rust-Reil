@@ -26,3 +26,7 @@ https://learning.oreilly.com/videos/rust-in-motion
   - `target/debug/<project_name> -> executable.
 - `cargo build --release` -> prod
 - build and run -> `cargo run`
+
+#### Learning Order
+
+- O'Reilly - Rust Video Course.
