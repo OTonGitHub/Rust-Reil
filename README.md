@@ -11,9 +11,18 @@ https://learning.oreilly.com/videos/rust-in-motion
 - stablity gurantee, will run in any higher version with the same major version.
 - IRC networks for rust supports seems to be down, discord is the way now.
 - Template for gitignore file -> `https://www.toptal.com/developers/gitignore/api/rust`
+- binary crates create an executable, other choices are libary crate for example.
+- I won't be putting much more notes, as this short cause is to get up and running, before starting book, I will just document commands.
 
 #### Commands
 
 - `rustc --version`
 - `cargo --version`
 - `cargo new --bin ProjectName`
+- cd into projectory and run commands there.
+- `cargo build`
+  - compiles in project directory.
+  - `Cargo.lock` -> dependencies
+  - `target/debug/<project_name> -> executable.
+- `cargo build --release` -> prod
+- build and run -> `cargo run`
