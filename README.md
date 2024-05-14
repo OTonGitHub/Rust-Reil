@@ -4,6 +4,8 @@ Following O'Reilly's Rust Begginers course to try rust and
 learn a little bit before following any of the books.
 https://learning.oreilly.com/videos/rust-in-motion
 
+- _pushing trying out this until end of 2024, to around nov/dec, will update currently learning list on git profile_
+
 > Material uses rust version 1.24.0, I am running 1.78.0.
 
 #### Notes
